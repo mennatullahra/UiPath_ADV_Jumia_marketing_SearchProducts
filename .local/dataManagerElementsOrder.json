@@ -1,0 +1,39 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_Email&Sequence_1",
+        "list_messages&Sequence_1",
+        "str_URL_jumia&Sequence_1",
+        "dbl_threshold&Sequence_1",
+        "dt_Products&Sequence_1",
+        "str_current_PName&Sequence_1",
+        "str_page_url&TryCatch_1",
+        "str_page_title&TryCatch_1",
+        "str_subject&Sequence_3",
+        "str_low_price&Sequence_39",
+        "int_pr_num&Sequence_39",
+        "str_high_price&Sequence_39",
+        "dbl_low_price&Sequence_39",
+        "dbl_high_price&Sequence_39",
+        "index&Sequence_40",
+        "str_search_text&Sequence_42",
+        "str_pr_num&Sequence_42",
+        "ExtractDataTable&Sequence_43"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
